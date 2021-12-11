@@ -10,4 +10,4 @@ Hướng dẫn dùng:
       TestCaseDatHang()
       là 3 testcase lớn, với đầu ra của TestCaseGioHang() là file outputGioHang.xlsx, TestCaseTimKiem() là file input có đầu vào, 
         TestCaseDatHang() là file outputThanhToan.xlsx
-file main.py chứa code các testcase con của các testcase lớn
+File main.py chứa code các testcase con của các testcase lớn
